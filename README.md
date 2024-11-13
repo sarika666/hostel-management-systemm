@@ -1,1 +1,1 @@
-# hostel-management-systemm
+# hospital-management-systemm
